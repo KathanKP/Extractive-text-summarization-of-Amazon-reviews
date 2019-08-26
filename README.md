@@ -20,3 +20,5 @@ Dependencies -
  f) sumy (https://github.com/miso-belica/sumy)
  g) re (for regular expressions)
  h) tqdm (for progress bar)
+
+We use the the Movies TV Dataset (5-core) from http://jmcauley.ucsd.edu/data/amazon/.
